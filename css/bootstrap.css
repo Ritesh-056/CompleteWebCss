@@ -4796,9 +4796,12 @@ input[type="button"].btn-block {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: crimson !important;
-  border-bottom: 1px solid crimson !important;
-  color: white !important;
+  background-color: white !important;
+  border-bottom: 1px solid white !important;
+  color: crimson !important;
+  font-size: 20px;
+  font-weight: 400;
+
 }
 
 .card-header:first-child {
